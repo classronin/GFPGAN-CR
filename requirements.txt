@@ -1,0 +1,15 @@
+numba
+llvmlite
+basicsr
+facexlib
+lmdb
+numpy
+opencv-python
+pyyaml
+scipy
+tb-nightly
+torch
+torchvision
+tqdm
+yapf
+realesrgan
